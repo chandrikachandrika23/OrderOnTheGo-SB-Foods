@@ -4,14 +4,14 @@ Welcome to OrderOnTheGo: SB Foods! This project is designed to streamline food o
 
 Demo Video
 Check out a quick demo of OrderOnTheGo in action:
-Watch Demo on YouTube
-https://youtu.be/Pdqh0A7nmxo
+Watch Demo here:
+https://drive.google.com/file/d/1m-z5cgrs8zs-j-OAgGA7Kslpf5HCCJwh/view?usp=sharing
 
 Installation
 Get started in a few simple steps:
 
 Clone the repository:
-git clone https://github.com/your-username/OrderOnTheGo.git
+git clone https://github.com/chandrikachandrika23/OrderOnTheGo-SB-Foods.git
 
 Navigate to the project directory:
 cd OrderOnTheGo
@@ -42,7 +42,7 @@ This project is licensed under the MIT License — see the file for details.
 Contact
 Have questions or feedback? Reach out!
 
-Email: your-email@example.com
+Email:chandrikarajulapati317@gmail.com
 
 Project: GitHub Repository
 
